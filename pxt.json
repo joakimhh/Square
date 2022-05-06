@@ -1,5 +1,5 @@
 {
-    "name": "firkant",
+    "name": "sensor",
     "description": "",
     "dependencies": {
         "core": "*",
